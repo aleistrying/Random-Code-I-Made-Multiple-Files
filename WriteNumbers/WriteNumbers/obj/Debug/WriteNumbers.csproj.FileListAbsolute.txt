@@ -1,0 +1,7 @@
+C:\Users\aleja\source\repos\WriteNumbers\WriteNumbers\bin\Debug\WriteNumbers.exe.config
+C:\Users\aleja\source\repos\WriteNumbers\WriteNumbers\bin\Debug\WriteNumbers.exe
+C:\Users\aleja\source\repos\WriteNumbers\WriteNumbers\bin\Debug\WriteNumbers.pdb
+C:\Users\aleja\source\repos\WriteNumbers\WriteNumbers\obj\Debug\WriteNumbers.csprojResolveAssemblyReference.cache
+C:\Users\aleja\source\repos\WriteNumbers\WriteNumbers\obj\Debug\WriteNumbers.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\WriteNumbers\WriteNumbers\obj\Debug\WriteNumbers.exe
+C:\Users\aleja\source\repos\WriteNumbers\WriteNumbers\obj\Debug\WriteNumbers.pdb

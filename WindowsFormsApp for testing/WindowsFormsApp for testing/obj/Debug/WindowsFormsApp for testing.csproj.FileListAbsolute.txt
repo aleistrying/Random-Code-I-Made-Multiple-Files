@@ -1,0 +1,10 @@
+C:\Users\aleja\source\repos\WindowsFormsApp for testing\WindowsFormsApp for testing\bin\Debug\WindowsFormsApp for testing.exe.config
+C:\Users\aleja\source\repos\WindowsFormsApp for testing\WindowsFormsApp for testing\bin\Debug\WindowsFormsApp for testing.exe
+C:\Users\aleja\source\repos\WindowsFormsApp for testing\WindowsFormsApp for testing\bin\Debug\WindowsFormsApp for testing.pdb
+C:\Users\aleja\source\repos\WindowsFormsApp for testing\WindowsFormsApp for testing\obj\Debug\WindowsFormsApp for testing.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\WindowsFormsApp for testing\WindowsFormsApp for testing\obj\Debug\WindowsFormsApp_for_testing.Form1.resources
+C:\Users\aleja\source\repos\WindowsFormsApp for testing\WindowsFormsApp for testing\obj\Debug\WindowsFormsApp_for_testing.Properties.Resources.resources
+C:\Users\aleja\source\repos\WindowsFormsApp for testing\WindowsFormsApp for testing\obj\Debug\WindowsFormsApp for testing.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\WindowsFormsApp for testing\WindowsFormsApp for testing\obj\Debug\WindowsFormsApp for testing.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\WindowsFormsApp for testing\WindowsFormsApp for testing\obj\Debug\WindowsFormsApp for testing.exe
+C:\Users\aleja\source\repos\WindowsFormsApp for testing\WindowsFormsApp for testing\obj\Debug\WindowsFormsApp for testing.pdb
