@@ -1,0 +1,7 @@
+C:\Users\aleja\source\repos\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe.config
+C:\Users\aleja\source\repos\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe
+C:\Users\aleja\source\repos\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.pdb
+C:\Users\aleja\source\repos\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.exe
+C:\Users\aleja\source\repos\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
+C:\Users\aleja\source\repos\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache
