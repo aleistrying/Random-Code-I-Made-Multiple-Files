@@ -1,0 +1,10 @@
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\bin\Debug\MyaGift2.exe.config
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\bin\Debug\MyaGift2.exe
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\bin\Debug\MyaGift2.pdb
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Debug\MyaGift2.csprojResolveAssemblyReference.cache
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Debug\MyaGift2.Properties.Resources.resources
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Debug\MyaGift2.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Debug\MyaGift2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Debug\MyaGift2.exe
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Debug\MyaGift2.pdb
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Debug\ClickPerSecond.Form1.resources

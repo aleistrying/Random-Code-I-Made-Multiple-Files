@@ -1,0 +1,10 @@
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Release\ClickPerSecond.Form1.resources
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Release\MyaGift2.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Release\MyaGift2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\bin\Release\CPS_Tester.exe.config
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\bin\Release\CPS_Tester.exe
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\bin\Release\CPS_Tester.pdb
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Release\MyaGift2.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Release\CPS_Tester.Properties.Resources.resources
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Release\CPS_Tester.exe
+C:\Users\aleja\source\repos\MyaGift2\MyaGift2\obj\Release\CPS_Tester.pdb
