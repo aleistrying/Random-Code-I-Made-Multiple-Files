@@ -38,7 +38,7 @@ namespace MySqlWindowsFormTest
             for (int i = 1; i <= 8; i++)
             {
                 string Query = "SELECT * FROM  datos.laminadostable WHERE ID= " + i + " GROUP BY ID;";
-                string stringConnection = "host=localHost;username=root;password=Minecraft1mejor;database=datos";
+                string stringConnection = "host=localHost;username=root;password=root;database=datos";
                 MySqlConnection connection = new MySqlConnection(stringConnection);
                 //MySqlDataAdapter adaptor = new MySqlDataAdapter(Query, connection);
                 MySqlCommand command = new MySqlCommand(Query, connection);
