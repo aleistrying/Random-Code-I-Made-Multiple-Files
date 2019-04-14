@@ -1,0 +1,7 @@
+C:\Users\aleja\source\repos\WildCards\WildCards\bin\Debug\WildCards.exe.config
+C:\Users\aleja\source\repos\WildCards\WildCards\bin\Debug\WildCards.exe
+C:\Users\aleja\source\repos\WildCards\WildCards\bin\Debug\WildCards.pdb
+C:\Users\aleja\source\repos\WildCards\WildCards\obj\Debug\WildCards.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\WildCards\WildCards\obj\Debug\WildCards.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\WildCards\WildCards\obj\Debug\WildCards.exe
+C:\Users\aleja\source\repos\WildCards\WildCards\obj\Debug\WildCards.pdb

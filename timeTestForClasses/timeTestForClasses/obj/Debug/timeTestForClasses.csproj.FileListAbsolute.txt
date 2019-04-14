@@ -1,0 +1,7 @@
+C:\Users\aleja\source\repos\timeTestForClasses\timeTestForClasses\bin\Debug\timeTestForClasses.exe.config
+C:\Users\aleja\source\repos\timeTestForClasses\timeTestForClasses\bin\Debug\timeTestForClasses.exe
+C:\Users\aleja\source\repos\timeTestForClasses\timeTestForClasses\bin\Debug\timeTestForClasses.pdb
+C:\Users\aleja\source\repos\timeTestForClasses\timeTestForClasses\obj\Debug\timeTestForClasses.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\timeTestForClasses\timeTestForClasses\obj\Debug\timeTestForClasses.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\timeTestForClasses\timeTestForClasses\obj\Debug\timeTestForClasses.exe
+C:\Users\aleja\source\repos\timeTestForClasses\timeTestForClasses\obj\Debug\timeTestForClasses.pdb

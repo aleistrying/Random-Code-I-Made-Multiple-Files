@@ -1,0 +1,10 @@
+C:\Users\aleja\source\repos\TrasnformxlAppToPDF\TrasnformxlAppToPDF\bin\Debug\TrasnformxlAppToPDF.exe.config
+C:\Users\aleja\source\repos\TrasnformxlAppToPDF\TrasnformxlAppToPDF\bin\Debug\TrasnformxlAppToPDF.exe
+C:\Users\aleja\source\repos\TrasnformxlAppToPDF\TrasnformxlAppToPDF\bin\Debug\TrasnformxlAppToPDF.pdb
+C:\Users\aleja\source\repos\TrasnformxlAppToPDF\TrasnformxlAppToPDF\obj\Debug\TrasnformxlAppToPDF.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\TrasnformxlAppToPDF\TrasnformxlAppToPDF\obj\Debug\TrasnformxlAppToPDF.XlToPDFForm.resources
+C:\Users\aleja\source\repos\TrasnformxlAppToPDF\TrasnformxlAppToPDF\obj\Debug\TrasnformxlAppToPDF.Properties.Resources.resources
+C:\Users\aleja\source\repos\TrasnformxlAppToPDF\TrasnformxlAppToPDF\obj\Debug\TrasnformxlAppToPDF.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\TrasnformxlAppToPDF\TrasnformxlAppToPDF\obj\Debug\TrasnformxlAppToPDF.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\TrasnformxlAppToPDF\TrasnformxlAppToPDF\obj\Debug\TrasnformxlAppToPDF.exe
+C:\Users\aleja\source\repos\TrasnformxlAppToPDF\TrasnformxlAppToPDF\obj\Debug\TrasnformxlAppToPDF.pdb

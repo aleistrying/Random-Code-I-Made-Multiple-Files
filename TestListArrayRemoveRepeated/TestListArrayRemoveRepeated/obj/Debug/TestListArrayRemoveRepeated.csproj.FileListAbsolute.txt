@@ -1,0 +1,10 @@
+C:\Users\aleja\source\repos\TestListArrayRemoveRepeated\TestListArrayRemoveRepeated\bin\Debug\TestListArrayRemoveRepeated.exe.config
+C:\Users\aleja\source\repos\TestListArrayRemoveRepeated\TestListArrayRemoveRepeated\bin\Debug\TestListArrayRemoveRepeated.exe
+C:\Users\aleja\source\repos\TestListArrayRemoveRepeated\TestListArrayRemoveRepeated\bin\Debug\TestListArrayRemoveRepeated.pdb
+C:\Users\aleja\source\repos\TestListArrayRemoveRepeated\TestListArrayRemoveRepeated\obj\Debug\TestListArrayRemoveRepeated.csprojResolveAssemblyReference.cache
+C:\Users\aleja\source\repos\TestListArrayRemoveRepeated\TestListArrayRemoveRepeated\obj\Debug\TestListArrayRemoveRepeated.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\TestListArrayRemoveRepeated\TestListArrayRemoveRepeated\obj\Debug\TestListArrayRemoveRepeated.exe
+C:\Users\aleja\source\repos\TestListArrayRemoveRepeated\TestListArrayRemoveRepeated\obj\Debug\TestListArrayRemoveRepeated.pdb
+C:\Users\aleja\source\repos\TestListArrayRemoveRepeated\TestListArrayRemoveRepeated\bin\Debug\MySql.Data.dll
+C:\Users\aleja\source\repos\TestListArrayRemoveRepeated\TestListArrayRemoveRepeated\bin\Debug\MySql.Data.xml
+C:\Users\aleja\source\repos\TestListArrayRemoveRepeated\TestListArrayRemoveRepeated\obj\Debug\TestListArrayRemoveRepeated.csproj.CopyComplete
