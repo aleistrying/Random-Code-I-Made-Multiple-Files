@@ -1,0 +1,13 @@
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\bin\Debug\MySqlWindowsFormTest.exe.config
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\bin\Debug\MySqlWindowsFormTest.exe
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\bin\Debug\MySqlWindowsFormTest.pdb
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\bin\Debug\MySql.Data.dll
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\bin\Debug\MySql.Data.xml
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\obj\Debug\MySqlWindowsFormTest.csprojResolveAssemblyReference.cache
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\obj\Debug\MySqlWindowsFormTest.Form1.resources
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\obj\Debug\MySqlWindowsFormTest.Properties.Resources.resources
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\obj\Debug\MySqlWindowsFormTest.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\obj\Debug\MySqlWindowsFormTest.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\obj\Debug\MySqlWindowsFormTest.csproj.CopyComplete
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\obj\Debug\MySqlWindowsFormTest.exe
+C:\Users\aleja\source\repos\MySqlWindowsFormTest\MySqlWindowsFormTest\obj\Debug\MySqlWindowsFormTest.pdb
