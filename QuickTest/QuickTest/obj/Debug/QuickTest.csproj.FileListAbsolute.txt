@@ -1,0 +1,10 @@
+c:\users\aleja\source\repos\QuickTest\QuickTest\bin\Debug\QuickTest.exe.config
+c:\users\aleja\source\repos\QuickTest\QuickTest\bin\Debug\QuickTest.exe
+c:\users\aleja\source\repos\QuickTest\QuickTest\bin\Debug\QuickTest.pdb
+c:\users\aleja\source\repos\QuickTest\QuickTest\obj\Debug\QuickTest.csprojResolveAssemblyReference.cache
+c:\users\aleja\source\repos\QuickTest\QuickTest\obj\Debug\QuickTest.csproj.CoreCompileInputs.cache
+c:\users\aleja\source\repos\QuickTest\QuickTest\obj\Debug\QuickTest.exe
+c:\users\aleja\source\repos\QuickTest\QuickTest\obj\Debug\QuickTest.pdb
+C:\Users\aleja\source\repos\QuickTest\QuickTest\bin\Debug\MySql.Data.dll
+C:\Users\aleja\source\repos\QuickTest\QuickTest\bin\Debug\MySql.Data.xml
+C:\Users\aleja\source\repos\QuickTest\QuickTest\obj\Debug\QuickTest.csproj.CopyComplete

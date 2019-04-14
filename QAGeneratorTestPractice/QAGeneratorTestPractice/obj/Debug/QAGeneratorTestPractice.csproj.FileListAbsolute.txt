@@ -1,0 +1,10 @@
+C:\Users\aleja\source\repos\QAGeneratorTestPractice\QAGeneratorTestPractice\bin\Debug\QAGeneratorTestPractice.exe.config
+C:\Users\aleja\source\repos\QAGeneratorTestPractice\QAGeneratorTestPractice\bin\Debug\QAGeneratorTestPractice.exe
+C:\Users\aleja\source\repos\QAGeneratorTestPractice\QAGeneratorTestPractice\bin\Debug\QAGeneratorTestPractice.pdb
+C:\Users\aleja\source\repos\QAGeneratorTestPractice\QAGeneratorTestPractice\obj\Debug\QAGeneratorTestPractice.Form1.resources
+C:\Users\aleja\source\repos\QAGeneratorTestPractice\QAGeneratorTestPractice\obj\Debug\QAGeneratorTestPractice.Properties.Resources.resources
+C:\Users\aleja\source\repos\QAGeneratorTestPractice\QAGeneratorTestPractice\obj\Debug\QAGeneratorTestPractice.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\QAGeneratorTestPractice\QAGeneratorTestPractice\obj\Debug\QAGeneratorTestPractice.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\QAGeneratorTestPractice\QAGeneratorTestPractice\obj\Debug\QAGeneratorTestPractice.exe
+C:\Users\aleja\source\repos\QAGeneratorTestPractice\QAGeneratorTestPractice\obj\Debug\QAGeneratorTestPractice.pdb
+C:\Users\aleja\source\repos\QAGeneratorTestPractice\QAGeneratorTestPractice\obj\Debug\QAGeneratorTestPractice.csprojAssemblyReference.cache

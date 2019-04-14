@@ -1,0 +1,7 @@
+C:\Users\aleja\source\repos\QACreator\QACreator\bin\Release\QACreator.exe.config
+C:\Users\aleja\source\repos\QACreator\QACreator\bin\Release\QACreator.exe
+C:\Users\aleja\source\repos\QACreator\QACreator\bin\Release\QACreator.pdb
+C:\Users\aleja\source\repos\QACreator\QACreator\obj\Release\QACreator.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\QACreator\QACreator\obj\Release\QACreator.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\QACreator\QACreator\obj\Release\QACreator.exe
+C:\Users\aleja\source\repos\QACreator\QACreator\obj\Release\QACreator.pdb
